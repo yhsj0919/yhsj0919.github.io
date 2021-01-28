@@ -36116,7 +36116,7 @@ $iA:1}
 P.Mg.prototype={}
 P.Mh.prototype={}
 F.Eg.prototype={
-I:function(a,b){return new U.tL("/",new F.Wu(),"Flutter Demo",$.alo(),new A.P0(),new P.fR("zh","CN"),new P.fR("en","US"),!1,$.ak6(),null)}}
+I:function(a,b){return new U.tL("/",new F.Wu(),"\u6c38\u6052\u77ac\u95f4",$.alo(),new A.P0(),new P.fR("zh","CN"),new P.fR("en","US"),!1,$.ak6(),null)}}
 F.Wu.prototype={
 $2:function(a,b){var s=null
 return M.mB(s,s,D.lH(s,b,C.at,!1,s,s,s,s,s,s,s,s,s,s,s,new F.Wt(a),s,s,s,s,s,s),s,s,s)},
